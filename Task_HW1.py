@@ -1,3 +1,4 @@
+# Создайте программу для игры в "Крестики-нолики".
 import random
 from tkinter import *
 import os
